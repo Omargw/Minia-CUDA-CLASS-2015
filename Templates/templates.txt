@@ -1,0 +1,1 @@
+this folder contain all of the templates *.cu files needed for the assignements
